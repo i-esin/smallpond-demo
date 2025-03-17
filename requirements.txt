@@ -1,0 +1,5 @@
+smallpond
+marimo
+setuptools
+daft
+duckdb
